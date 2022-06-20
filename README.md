@@ -2,7 +2,7 @@
 A mix of various resource packs to create the ultimate pack
 
 # Sources
-Base Textures: https://resourcepack.net/faithful-32x32-resource-pack/
+Base Textures: https://resourcepack.net/faithful-32x32-resource-pack/  
 Redstone/Wool: https://codecrafted.net/
 Colored Ping Indicators: https://faithfulpack.net/addons/colored-ping-indicator
 Custom Paintings: https://faithfulpack.net/addons/custom-paintings

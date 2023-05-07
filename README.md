@@ -13,3 +13,4 @@ Diamond Apples: https://faithfulpack.net/addons/EnchantedDiamondApple
 Better Observers: https://faithfulpack.net/addons/BetterObservers  
 Directional Droppers+Dispensers: https://faithfulpack.net/addons/DirectionalDropperDispenser  
 Directional Hoppers: https://faithfulpack.net/addons/DirectionalHopperBottomFix
+Glowing Ores: https://faithfulpack.net/addons/new-emissive-ores

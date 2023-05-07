@@ -7,7 +7,6 @@ Redstone/Wool: https://codecrafted.net/
 Colored Ping Indicators: https://faithfulpack.net/addons/colored-ping-indicator  
 Custom Paintings: https://faithfulpack.net/addons/custom-paintings  
 Dark UI: https://faithfulpack.net/addons/dark-ui  
-Old Ores: https://faithfulpack.net/addons/old-ores  
 Ore Borders: https://faithfulpack.net/addons/ore-borders  
 Diamond Apples: https://faithfulpack.net/addons/EnchantedDiamondApple  
 Better Observers: https://faithfulpack.net/addons/BetterObservers  
